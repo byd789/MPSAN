@@ -1,6 +1,8 @@
-# Experiments Codes for Multiple Positional Self-Attention Network
+# MPSAN
+Multiple Positional Self-Attention Network
 
-## Experiments Codes for Paper "Multiple Positional Self-Attention Network for Text Classification"
+## Experiments Codes for Paper [Multiple Positional Self-Attention Network for Text Classification](https://aaai.org/ojs/index.php/AAAI/article/view/6261).
+
 The code is based on [Bi-BloSAN](https://github.com/taoshen58/BiBloSA/tree/master/exp_SC).
 
 ### Project Directories:
